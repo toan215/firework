@@ -1,7 +1,16 @@
+html {
+  margin: 0;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+}
+
 canvas {
-	display: block;
+  display: block;
 }
 
 .block-audio {
-	display: none;
+  display: none;
 }
